@@ -1,4 +1,4 @@
-## Hi there 👋
+## prazer, pode me chamar de Nick 👋
 
 <!--
 **GlitchedNick/GlitchedNick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
