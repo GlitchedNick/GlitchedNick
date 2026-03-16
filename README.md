@@ -1,10 +1,13 @@
 ## prazer, pode me chamar de Nick 👋
 -🎓 Estudante de Desenvolvimento de Sistemas
+
 -👨‍💻 Focado em Python, HTML e CSS
+
 -💼 Preparando-se para o mercado de tecnologia
+
 -📧 Contato: nicolas.santim2016@gmail.com
 
-1
+
 ## Tecnologias que estudo
 <div style="display: inline_block"><br>
  <img align="center" alt="Python" height="40" width="40"
